@@ -1,6 +1,6 @@
 # bloc_test3
 
-A new Flutter project.
+a simple project using the business logic pattern ( BLoC ) for learning purposes.
 
 ## Getting Started
 
